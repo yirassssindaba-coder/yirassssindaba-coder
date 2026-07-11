@@ -19,7 +19,7 @@ Frontend + Backend + Database + DevOps
 
 I build deploy-ready web apps, AI-powered features, cloud architecture demos, data workflows, and portfolio-grade engineering systems.
 
-[GitHub Profile](https://github.com/yirassssindaba-coder) · [Portfolio](https://complete-app-website.pages.dev) · [Creative Lab](https://chromatic-website.pages.dev)
+[GitHub Profile](https://github.com/yirassssindaba-coder) · [Portfolio]([https://complete-app-website.pages.dev](https://original-ultimate-portfolio-website.pages.dev/)) · [Creative Lab](https://chromatic-website.pages.dev)
 
 </div>
 
