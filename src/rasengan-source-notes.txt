@@ -1,0 +1,5 @@
+Rasengan source concept supplied by the user.
+
+Core structure: 100 circular orbital lines, radial-gradient energy core, 3D rotateX/rotateY/rotateZ motion, and pulsing blue/white glow.
+
+The demo in demos/rasengan converts the original Sass random loop into deterministic inline CSS custom properties so it works without a Sass build step.
