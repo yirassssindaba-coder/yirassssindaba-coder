@@ -31,7 +31,7 @@ I build deploy-ready web apps, AI-powered features, cloud architecture demos, da
 
 <div align="center">
 
-<img src="./assets/naruto-rasengan.png" width="100%" alt="Naruto launching a completed blue Rasengan" />
+<img src="./assets/rasengan-roberto-preview.gif" width="100%" alt="Animated Naruto completed Rasengan preview" />
 
 ### Feel this completed Rasengan!
 
