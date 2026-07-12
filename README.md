@@ -1,14 +1,10 @@
-# 🚀 Roberto Laksmana
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:7C3AED,100:00F5FF&text=Roberto%20Laksmana&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Project%20Builder%20%7C%20Cloud%20Architecture%20Portfolio&descAlignY=58" alt="Roberto Laksmana portfolio banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2400&pause=700&color=00F5FF&center=true&vCenter=true&width=980&lines=Frontend+%2B+Backend+%2B+Database+%2B+DevOps;Deploy-ready+web+apps+%7C+AI+features+%7C+Cloud+architecture;Build+proof%2C+not+just+claims" alt="Roberto Laksmana animated headline" />
+<img src="./assets/windows-roberto-banner.png" width="100%" alt="Roberto Laksmana Windows portfolio banner" />
 
 <br />
 
-<img src="./assets/okita-souji.png" width="280" alt="Okita Souji artwork" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2400&pause=700&color=00F5FF&center=true&vCenter=true&width=980&lines=Frontend+%2B+Backend+%2B+Database+%2B+DevOps;Deploy-ready+web+apps+%7C+AI+features+%7C+Cloud+architecture;Build+proof%2C+not+just+claims" alt="Roberto Laksmana animated headline" />
 
 <br />
 
