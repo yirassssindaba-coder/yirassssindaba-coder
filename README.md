@@ -1,71 +1,125 @@
 <div align="center">
 
-<img src="./assets/windows-roberto-banner.png" width="100%" alt="Roberto Laksmana Windows portfolio banner" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/windows-roberto-samurai.jpg" />
+  <img src="./assets/windows-roberto-samurai.gif" width="100%" alt="Roberto Laksmana Windows creative engineering banner with an animated samurai slash transition" />
+</picture>
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2400&pause=700&color=00F5FF&center=true&vCenter=true&width=980&lines=Frontend+%2B+Backend+%2B+Database+%2B+DevOps;Deploy-ready+web+apps+%7C+AI+features+%7C+Cloud+architecture;Build+proof%2C+not+just+claims" alt="Roberto Laksmana animated headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2400&pause=700&color=00F5FF&center=true&vCenter=true&width=980&lines=Frontend+%2B+Backend+%2B+Database+%2B+DevOps;Deploy-ready+web+apps+%7C+AI+features+%7C+Cloud+architecture;Build+proof%2C+not+just+claims" alt="Roberto Laksmana animated engineering headline" />
 
 <br />
 
 <p>
-  <img src="https://img.shields.io/badge/Portfolio-complete--app--website-00F5FF?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Portfolio badge" />
-  <img src="https://img.shields.io/badge/Creative%20Lab-chromatic--website-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Creative Lab badge" />
-  <img src="https://img.shields.io/badge/Resume-Google%20Drive-22C55E?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume badge" />
-  <img src="https://img.shields.io/badge/GitHub-yirassssindaba--coder-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+  <a href="https://complete-app-website.pages.dev"><img src="https://img.shields.io/badge/Portfolio-complete--app--website-00F5FF?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://chromatic-website.pages.dev"><img src="https://img.shields.io/badge/Creative%20Lab-chromatic--website-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Creative Lab" /></a>
+  <a href="https://github.com/yirassssindaba-coder"><img src="https://img.shields.io/badge/GitHub-yirassssindaba--coder-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-**Full Stack Developer | AI Project Builder | Cloud Architecture Portfolio**
+# Roberto Ocaviantyo Tahta Laksmana
+
+**Full Stack Developer · AI Project Builder · Cloud Architecture Portfolio**
 
 Frontend + Backend + Database + DevOps
 
-I build deploy-ready web apps, AI-powered features, cloud architecture demos, data workflows, and portfolio-grade engineering systems.
+I build deploy-ready web applications, AI-powered features, cloud architecture demos, data workflows, and portfolio-grade engineering systems.
 
-[GitHub Profile](https://github.com/yirassssindaba-coder) | [Portfolio](https://original-ultimate-portfolio-website.pages.dev/) | [Creative Lab](https://chromatic-website.pages.dev)
+[Portfolio](https://complete-app-website.pages.dev) · [Ultimate Portfolio](https://original-ultimate-portfolio-website.pages.dev) · [Creative Lab](https://chromatic-website.pages.dev) · [GitHub](https://github.com/yirassssindaba-coder)
 
 </div>
 
 ---
 
-## 🧠 Engineering Identity
+## Navigation
 
-I am a Full Stack Developer focused on building practical, reviewable, and deployable systems.
-
-My work combines web applications, APIs, databases, DevOps workflows, Cloudflare deployment, AI features, documentation, and architecture thinking.
-
-I do not only build interfaces. I build the full engineering path:
-
-```txt
-Idea → UI → Backend → Database → Automation → Deployment → Documentation → Portfolio Proof
-```
+[Engineering Identity](#-engineering-identity) · [Windows Experience](#-windows-creative-systems) · [Rasengan Lab](#-rasengan-energy-lab) · [Featured Work](#-featured-portfolio) · [Architecture](#-architecture-portfolio-map) · [Stack](#-tech-stack) · [Standards](#-proof-oriented-portfolio-standard) · [Roadmap](#-roadmap) · [Connect](#-connect)
 
 ---
 
-## ⚡ Current Focus
+## 🧠 Engineering Identity
+
+I am a Full Stack Developer focused on building practical, reviewable, and deployable systems. My work combines product UI, APIs, databases, automation, cloud deployment, AI features, documentation, and architecture thinking.
+
+```text
+Idea → UX → Frontend → Backend → Database → Automation → Deployment → Documentation → Proof
+```
+
+### Current focus
 
 | Area | What I Build |
 |---|---|
-| 🧩 Full Stack Apps | React, TypeScript, Vite, Express, APIs, dashboards, forms, and auth-ready UI |
+| 🧩 Full Stack Apps | React, TypeScript, Vite, Next.js, Vue, APIs, dashboards, forms, auth-ready interfaces |
 | ☁️ Cloud Architecture | Cloudflare Pages, Workers, D1, KV, AWS reference architecture, CI/CD, PWA |
-| 🤖 AI Features | RAG, document search, OCR, adaptive logic, prompt testing, automation workflows |
-| 📊 Data & Analytics | KPI dashboards, charts, data pipelines, reports, CSV/JSON export |
-| 🛠️ DevOps | GitHub Actions, PWA install, service workers, deployment guides, monitoring concepts |
-| 📚 Documentation | README, architecture notes, deployment guide, project proof, portfolio storytelling |
+| 🤖 AI Features | RAG, document search, OCR, adaptive logic, prompt testing, agents, automation workflows |
+| 📊 Data & Analytics | KPI dashboards, charts, data pipelines, reporting, CSV/JSON export |
+| 🛠️ DevOps | GitHub Actions, Docker, Kubernetes, service workers, monitoring concepts, deployment guides |
+| 📚 Documentation | README, architecture notes, runbooks, benchmark notes, cost/security decisions |
+
+---
+
+## 🪟 Windows Creative Systems
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/windows-roberto-samurai.jpg" />
+  <img src="./assets/windows-roberto-samurai.gif" width="100%" alt="Windows-inspired portfolio panel cut open by a responsive CSS samurai slash animation" />
+</picture>
+
+The Windows presentation layer uses a cinematic samurai transition instead of a passive screenshot. The sequence includes a moving CSS samurai, four directional blade streaks, a short impact flash, segmented screen pieces, and a final engineering reveal.
+
+| Property | Implementation |
+|---|---|
+| Rendering | Semantic HTML + CSS keyframes; no animation framework required |
+| Visual language | Windows-inspired glass panel, terminal status, cyan/violet engineering glow |
+| Motion sequence | Samurai pass → four slashes → impact flash → segmented break → title reveal |
+| Responsive behavior | Fluid viewport units and a mobile layout breakpoint |
+| Accessibility | Static JPEG fallback and `prefers-reduced-motion` support |
+| Source | [`demos/windows-samurai`](./demos/windows-samurai) |
+
+> The animated preview is a GIF because GitHub README pages do not execute arbitrary project CSS or JavaScript. The full browser-native animation lives in the demo directory.
+
+---
+
+## 🌀 Rasengan Energy Lab
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/rasengan-roberto-preview.jpg" />
+  <img src="./assets/rasengan-roberto-preview.gif" width="100%" alt="Blue Rasengan energy sphere enhanced with one hundred animated orbital lines over the supplied artwork" />
+</picture>
+
+The supplied artwork is enhanced with the requested Rasengan system: **100 independent orbital lines**, a white-blue radial core, layered halos, sparks, 3D rotation, and a pulsing energy field. The original Sass random loop was converted into deterministic CSS custom properties, so the demo works immediately without a Sass compiler.
+
+```text
+100 orbital lines
++ radial-gradient energy core
++ rotateX / rotateY / rotateZ motion
++ layered blue-white bloom
++ responsive positioning
++ reduced-motion fallback
+```
+
+| Property | Implementation |
+|---|---|
+| Core | White → cyan → electric-blue radial gradient |
+| Orbit field | 100 circular layers with independent duration, delay, inset, and 3D axis values |
+| Energy bloom | Multi-layer box shadows, halos, spark mask, and pulse scaling |
+| Integration | Positioned over the Rasengan already present in the supplied image |
+| Source | [`demos/rasengan`](./demos/rasengan) |
 
 ---
 
 ## 🌟 Featured Portfolio
 
-| Project | Live | Core Strength |
-|---|---:|---|
-| 🪨📄✂️ Rock Paper Scissors | Open | Markov-style adaptive logic, match history, stats, PWA |
-| 🎮 RPG Game Adventure | Open | Phaser 2D RPG, mobile controls, sprites, quest and battle UI |
-| 🐍 Python Compiler | Open | Pyodide, WebAssembly, browser compiler, PWA |
-| 🦀 Rust Compiler | Open | Rust runner UI, templates, Compiler Explorer/Piston bridge |
-| 🌿 Azka Garden | Open | Plant store, API knowledge reader, checkout-ready portal |
-| 🛒 E-Commerce Analysis | Open | KPI dashboard, Recharts/D3/Plotly, analytics workflow |
-| 🔗 URL Shortener Website | Open | D1 URL shortener, CRUD, analytics, campaigns, exports |
-| 🛠️ IT Support Website | Open | IT superapp, helpdesk SLA, D1/KV console, reports |
+| Project | Engineering Proof | Core Strength |
+|---|---|---|
+| 🪨📄✂️ Rock Paper Scissors | PWA, match history, adaptive behavior, statistics | Markov-style adaptive logic |
+| 🎮 RPG Game Adventure | Responsive controls, sprites, quests, battle UI | Phaser-based game system |
+| 🐍 Python Compiler | Browser execution, offline-ready shell, examples | Pyodide + WebAssembly |
+| 🦀 Rust Compiler | Templates, runner UX, service bridge design | Compiler workflow and resilient UI |
+| 🌿 Azka Garden | Catalog, plant knowledge, responsive commerce flow | Product storytelling and WebGL-ready visuals |
+| 🛒 E-Commerce Analysis | KPI cards, charts, filters, exports | Analytics workflow |
+| 🔗 URL Shortener | CRUD, campaigns, analytics, exports | Cloudflare D1-ready architecture |
+| 🛠️ IT Support Platform | Helpdesk flow, SLA, reports, operational console | Enterprise service workflow |
 
 ---
 
@@ -73,17 +127,17 @@ Idea → UI → Backend → Database → Automation → Deployment → Documenta
 
 | Domain | Portfolio Direction |
 |---|---|
-| Cloud Architecture | Multi-tier app, VPC, load balancer, autoscaling, monitoring, cost, high availability, disaster recovery |
-| Artificial Intelligence | LLM chatbot, RAG, document search, AI agent, OCR, recommendation, forecasting |
-| Machine Learning | Classification, regression, clustering, time series, experiment tracking, MLOps |
-| Data Engineering | Airflow, dbt, Delta Lake, Kafka, Spark, BigQuery, Snowflake-style pipelines |
+| Cloud Architecture | Multi-tier applications, VPC, load balancing, autoscaling, HA, DR, monitoring, cost optimization |
+| Artificial Intelligence | LLM chatbot, RAG, document search, agents, OCR, recommendation, forecasting |
+| Machine Learning | Classification, regression, clustering, time series, experiments, MLOps |
+| Data Engineering | Airflow, dbt, Delta Lake, Kafka, Spark, BigQuery, warehouse-style pipelines |
 | DevOps | GitHub Actions, Docker, Kubernetes, Helm, Argo CD, Prometheus, Grafana, Loki |
-| Security | IAM, RBAC, Zero Trust, Vault, SIEM, security scanning, compliance dashboard |
-| Backend | REST API, GraphQL, gRPC, authentication, OAuth2, JWT, API gateway, microservices |
-| Frontend | React, Next.js, Vue, dashboards, analytics, realtime charts, responsive UI, PWA |
+| Security | IAM, RBAC, Zero Trust, Vault, SIEM, scanning, compliance dashboards |
+| Backend | REST, GraphQL, gRPC, OAuth2, JWT, API gateway, microservices |
+| Frontend | React, Next.js, Vue, realtime dashboards, responsive UI, PWA |
 | Database | PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Milvus, Weaviate |
 | AI Cloud | Bedrock, Vertex AI, Azure AI, SageMaker, Cloud Run, Functions, Lambda concepts |
-| Enterprise Architecture | UML, C4, sequence diagram, deployment diagram, ADR, threat modeling |
+| Enterprise Architecture | UML, C4, sequence/deployment diagrams, ADR, threat modeling |
 
 ---
 
@@ -126,39 +180,20 @@ Idea → UI → Backend → Database → Automation → Deployment → Documenta
 
 ## 🧪 Proof-Oriented Portfolio Standard
 
-Every serious project should show:
+Every serious project should demonstrate:
 
-- ✅ Clear README
-- ✅ Live deployment
-- ✅ Screenshots or preview
-- ✅ Architecture diagram
-- ✅ Stack explanation
-- ✅ Install/deploy guide
-- ✅ Benchmark or result notes
-- ✅ Cost, security, and monitoring consideration
-- ✅ Future improvement plan
+- ✅ a clear problem statement and README;
+- ✅ a live deployment or reproducible local run;
+- ✅ screenshots, GIFs, or a concise video demo;
+- ✅ an architecture diagram and stack explanation;
+- ✅ installation, build, and deployment instructions;
+- ✅ benchmark, validation, or result notes;
+- ✅ security, cost, monitoring, and production-limit considerations;
+- ✅ a focused improvement roadmap.
 
----
+### Cloudflare-ready static structure
 
-## ☁️ Deployment Standard
-
-Most portfolio projects are designed to be deployable with a simple static-first workflow:
-
-```txt
-Project folder
-      ↓
-Static assets / frontend build
-      ↓
-Cloudflare Pages Direct Upload
-      ↓
-Live URL
-      ↓
-README proof + screenshots + architecture notes
-```
-
-Recommended Cloudflare-ready structure:
-
-```txt
+```text
 .
 ├── index.html
 ├── assets/
@@ -172,77 +207,79 @@ Recommended Cloudflare-ready structure:
 └── LICENSE
 ```
 
----
+### Deployment path
 
-## 📱 PWA Standard
-
-For installable portfolio projects, I prefer:
-
-- `manifest.webmanifest`
-- app icons for mobile and desktop
-- service worker registration
-- offline fallback page
-- responsive layout
-- clear install behavior
-- cache strategy that does not break future updates
+```text
+Source → Validate → Build → Static output → Cloudflare Pages → Live proof → Documentation
+```
 
 ---
 
-## 🔐 Security Mindset
+## 📱 PWA and Security Baseline
 
-I design projects with practical engineering boundaries:
-
-- no exposed API keys;
-- no committed secrets;
-- least-privilege access;
-- safe fallback mode for demos;
-- clear separation between frontend and backend logic;
-- validation for user input;
-- clear notes for production limitations;
-- deployment documentation before public release.
+| PWA | Security |
+|---|---|
+| Installable manifest and correct icons | No exposed API keys or committed secrets |
+| Service worker with update-safe caching | Least-privilege access and safe demo fallbacks |
+| Offline fallback and responsive layout | Input validation and frontend/backend separation |
+| Clear install behavior on mobile and desktop | Explicit production limitations and deployment notes |
 
 ---
 
 ## 🧭 Roadmap
 
-```txt
+```text
 2026 → Stronger cloud architecture portfolio
-2026 → AI/RAG/document-search projects
-2026 → Data engineering + dashboard proof
-2026 → DevOps, monitoring, security, and enterprise architecture documentation
+2026 → AI, RAG, and document-search systems
+2026 → Data engineering and analytics proof
+2026 → DevOps, observability, security, and enterprise architecture documentation
 2026 → AI Solutions Architect readiness
 ```
 
 ---
 
-## 📌 Repository Description
+## 📁 Animation Source Layout
 
-```txt
-🚀 Full Stack Developer | AI Project Builder | Cloud Architecture portfolio: web, cloud, data, DevOps, and deploy-ready apps. ✨⚡🔥!!
+```text
+.
+├── README.md
+├── assets/
+│   ├── windows-roberto-samurai.gif
+│   ├── windows-roberto-samurai.jpg
+│   ├── rasengan-roberto-preview.gif
+│   ├── rasengan-roberto-preview.jpg
+│   └── rasengan-source.png
+├── demos/
+│   ├── windows-samurai/
+│   │   ├── index.html
+│   │   └── style.css
+│   └── rasengan/
+│       ├── index.html
+│       └── style.css
+└── src/
+    ├── samurai-source-notes.txt
+    └── rasengan-source-notes.txt
 ```
+
+Open either demo locally or publish the directory through GitHub Pages or Cloudflare Pages to run the browser-native CSS animations.
 
 ---
 
-## 📚 Useful References
+## 🙏 Credits and Usage Notes
 
-- Cloudflare Pages documentation  
-  https://developers.cloudflare.com/pages/
-- Cloudflare Pages Direct Upload  
-  https://developers.cloudflare.com/pages/get-started/direct-upload/
-- MDN Progressive Web Apps  
-  https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
-- MDN Web App Manifest  
-  https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Manifest
-- Shields.io badges  
-  https://shields.io/
+- Samurai animation concept adapted from **CSS Samurai Animation** by Deepak K Vijayan on CodePen.
+- Rasengan orbital concept adapted from **Pure CSS Rasengan** by Harry Xie on CodePen.
+- The Rasengan artwork in this package was supplied for this project. Confirm that you hold the necessary rights before public or commercial publication.
+- Review the original creators’ licensing and attribution requirements before redistributing derivative code.
 
 ---
 
 ## 🤝 Connect
 
-- GitHub: https://github.com/yirassssindaba-coder
-- Portfolio: https://complete-app-website.pages.dev
-- Creative Lab: https://chromatic-website.pages.dev
+- GitHub: <https://github.com/yirassssindaba-coder>
+- Portfolio: <https://complete-app-website.pages.dev>
+- Ultimate Portfolio: <https://original-ultimate-portfolio-website.pages.dev>
+- Creative Lab: <https://chromatic-website.pages.dev>
 - Resume: Google Drive
 
 <div align="center">
